@@ -1,4 +1,5 @@
 # ict602_assignment
+video demo link : https://youtu.be/SNdm68cnGDg
 
 A new Flutter project.
 
